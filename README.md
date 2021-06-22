@@ -13,7 +13,6 @@ After download ROS, create a workspace, and install all packages that you need t
 Gazebo
 •     To open Gazebo enter this command:
            $ roslaunch robot_arm_pkg check_motors_gazebo.launch 
-
 Rviz and Gazebo
 •     To open Rviz and Gazebo use this command:
            $ roslaunch moveit_pkg demo_gazebo.launch
